@@ -42,3 +42,17 @@ quarantine → escalate):
 ## 6. No GitHub yet
 This folder IS the repo until the design is trusted; do not commit/push unless the
 user explicitly enables sync.
+
+## 7. Brand canon (seeded, verbatim — repo seed 2026-09-13 by cc_reposeed)
+
+The ONLY marks. Everything else is a replacement or a derivative, never canon:
+
+- **Company / app:** 𖤐πL1l@p£p©Tø§™∆𓂀
+- **App surface:** 𖤐∆§T¥X™π𓂀
+- **Engine:** ∆§T¥X™π{Styx} (replaces all havok mentions)
+- **Agents:** ∆jiππ (djinn) · **Harness/iframe tools:** @jπ@ (ajna)
+- **Domain:** 666.π@-@p£p.§TX · Pkg: Styx.lilapepdjinn.ajna
+- Glyph law: standalone 👁 banned; 𓂀 allowed.
+
+Full typecast system: `docs/TYPECAST.md` · Ecosystem map: `docs/HERITAGE.md`.
+Governed by parent-factory directives D-001..D-019 (`memory/directives-pointer.json`).

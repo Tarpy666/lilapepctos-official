@@ -1,0 +1,7 @@
+{
+  "owner": "lilapepctos-official",
+  "governing_entity": "parent factory",
+  "directives": "D-001..D-019",
+  "canon_lock": ["D-002 axioms", "D-005 worth-bar", "D-013 ascii-brand-own", "D-015 token-doctrine", "D-019 no-unbuilt-defaults"],
+  "authoritative_source": "parent factory workspace: memory/directives.jsonl"
+}
